@@ -1,1 +1,0 @@
-Mozilla/5.0 (compatible; FiieBot/0.3; +http://w3nabil.com/fiie/website.html)
